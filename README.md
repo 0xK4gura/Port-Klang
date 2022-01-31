@@ -1,4 +1,5 @@
-# portklang.py
+# 🅿🅾🆁🆃🅺🅻🅰🅽🅶
+
 Simple port scanner I made that enumerates from a list of domains and retrieve their IP Address. 
 For educational purpose only. Please don't use it on websites you don't own or have permission to do so.  
 
